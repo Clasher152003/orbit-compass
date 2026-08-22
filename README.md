@@ -7,15 +7,15 @@ launch windows and orbital transfer paths using real orbital mechanics.
 
 
 
-![First Screenshot](screenshots/globe.png)
+![First Screenshot](screenshots/globe.png
 
 
 
-`screenshots/trajectory.png`
+![Second Screenshot](screenshots/trajectory.png)
 
 
 
-`screenshots/results.png`
+![Third Screenshot](screenshots/results.png)
 
 
 
