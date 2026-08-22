@@ -5,23 +5,13 @@ launch windows and orbital transfer paths using real orbital mechanics.
 
 ---
 
-## Screenshots
 
-### Screenshot 1 — Hero image
-Open the app. Before clicking Calculate, screenshot the 
-full page showing the 3D globe and the Flight Plan panel.
-Save as: `screenshots/globe.png`
 
-### Screenshot 2 — Mars trajectory
-Select SDSC → Mars → 2027-01-01 → Click Calculate.
-Wait for the globe to show trajectory lines.
-Screenshot the full page.
-Save as: `screenshots/trajectory.png`
+`screenshots/globe.png`
 
-### Screenshot 3 — Results panel
-After calculating, screenshot just the results side panel
-showing Δv, flight time, C3 energy, and launch windows.
-Save as: `screenshots/results.png`
+`screenshots/trajectory.png`
+
+`screenshots/results.png`
 
 ---
 
